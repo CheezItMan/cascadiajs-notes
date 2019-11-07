@@ -61,5 +61,24 @@ The client isn't simple anymore.
 - Containers, OS is just another dependency
 - Orchestration of applications (OMFG)
 - There is SO much knowledge needed to learn this stuff
+- DevOPs - Not new
+- Serverless
+  - Declarative
+  
 
-DevOPs - Not new
+## What's a stack in 2019
+
+  - Browser Platform
+  - Mobile Platform
+  - Wearable Tech
+  - IOT
+  - Desktop
+  - Traditional Back-end
+  - Container-based apps
+  - Serverless
+
+## Manager Talk
+
+
+
+

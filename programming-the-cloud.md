@@ -55,7 +55,24 @@ We haven't been shown how to build infrastructure as code.
 We need abstractions to rise to meet us to where we are.
 
 
+## New changes
 
+JS to infra as code
+
+App-friendly resources
+
+- Function
+- Event
+- Route
+- Table
+- Record
+
+
+AWS Cloud development kit
+- Can be used to build infrastructure
+
+Pulumi
+- Similar to AWS cloud dev kit
 
 
 
